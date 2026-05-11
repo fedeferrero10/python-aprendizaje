@@ -1,0 +1,14 @@
+[
+    {
+        "categoria": "servicios",
+        "monto": 1200.0
+    },
+    {
+        "categoria": "comida",
+        "monto": 450.0
+    },
+    {
+        "categoria": "empleada domestica",
+        "monto": 5200.0
+    }
+]

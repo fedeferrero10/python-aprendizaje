@@ -1,0 +1,9 @@
+{
+    "nombre": "Fede",
+    "edad": 30,
+    "habilidades": [
+        "GeneXus",
+        "Python"
+    ],
+    "activo": true
+}
